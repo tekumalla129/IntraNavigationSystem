@@ -1,2 +1,2 @@
-<?php include_once("i;;ndex.html") ?>
+<?php include_once("index.html") ?>
 
