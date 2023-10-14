@@ -10,7 +10,6 @@
   justify-content: center;
   height: 18vh;
   }
-  
   .clg{
   height: 13vh;
   width: auto;
@@ -55,7 +54,6 @@
   font-weight: bolder;
           
   }
-  
   input{
   width: 20vw;
   height: 6vh;
@@ -111,7 +109,6 @@
   height: 90vh;
   background-color: rgb(212, 212, 218);
   }
-  
   #map{
   width: 90vw;
   height: 80vh;
@@ -149,7 +146,6 @@
   margin-right: 20px;
           
   }
-  
   #btn2:hover{
   background-color: rgb(10, 100, 70);
   border-color: rgb(255, 248, 248);
