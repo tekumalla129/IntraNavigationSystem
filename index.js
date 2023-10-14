@@ -4,16 +4,14 @@ function reset() {
   //change
   //change 2'gbghbhbhb
   //change 3
-  //done one
-  //bye bro
-  // done two
+
   
   
   window.location.reload();;
 }
 
 //ONCLICK FUNCTION
-let userText = "ENTER A VALID ROOM NUMBER";
+let userText = "ENTER A VALID ROOM NUMBER : ";
 let token = -1;
 function search() {
   
