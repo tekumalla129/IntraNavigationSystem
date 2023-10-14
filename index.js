@@ -5,7 +5,6 @@ function reset() {
   //change 2'gbghbhbhb
   //change 3
   //done one
-  //bye bro
   // done two
   
   
