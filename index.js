@@ -1,7 +1,4 @@
-//change
-function reset() {
-  window.location.reload();;
-}
+
 
 let userText = "ENTER A VALID ROOM NUMBER : ";
 let token = -1;
