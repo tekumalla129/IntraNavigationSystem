@@ -6,8 +6,7 @@ function reset() {
   //change 3
   //done one
   //bye bro
-  //aiman again
-  //hyd
+  
   
   window.location.reload();;
 }
