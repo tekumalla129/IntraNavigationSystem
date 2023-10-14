@@ -4,7 +4,8 @@ function reset() {
   //change
   //change 2
   //change 3
-  window.location.reload();
+  //done one
+  window.location.reload();;
 }
 
 //clicked function
