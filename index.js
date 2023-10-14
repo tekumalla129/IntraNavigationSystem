@@ -1,6 +1,4 @@
 
-
-let userText = "ENTER A VALID ROOM NUMBER : ";
 let token = -1;
 function search() {
   
