@@ -1,2 +1,2 @@
-<?php include_once("injhfimfx.html") ?>
+<?php include_once("inimfx.html") ?>
 hello guys
