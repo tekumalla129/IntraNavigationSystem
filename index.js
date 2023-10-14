@@ -2,7 +2,7 @@ function reset() {
   window.location.reload();;
 }
 
-hello
+
 //clicked function
 let userText = "ENTER A VALID ROOM NUMBER : ";
 let token = -1;
