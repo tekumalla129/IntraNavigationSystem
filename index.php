@@ -1,2 +1,2 @@
-<?php include_once("ciindex.html") ?>
+<?php include_once("cindex.html") ?>
 
