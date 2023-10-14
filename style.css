@@ -16,10 +16,10 @@
   width: auto;
   }
 
+
   #mail{
     width: 0px;
     height: 0px;
-   
   }
   #mails{
     width: 100px;
@@ -41,8 +41,7 @@
   border-radius: 30px;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10vh;
-          
+  margin-bottom: 10vh;   
   }
          
   label h3{
