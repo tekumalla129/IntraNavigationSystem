@@ -3,6 +3,7 @@ function reset() {
   //for first pr!
   //change
   //change 2
+  //change 3
   window.location.reload();
 }
 
