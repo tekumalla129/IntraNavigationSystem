@@ -2,10 +2,6 @@
 function reset() {
 
   
-  
-
-  hello guys
-  
   window.location.reload();;
 }
 
