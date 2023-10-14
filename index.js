@@ -1,6 +1,4 @@
 
-let token = -1;
-function search() {
   
   let roomNumber = document.getElementById("search").value.toUpperCase();
   var stringNumber = roomNumber;
