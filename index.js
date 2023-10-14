@@ -1,6 +1,7 @@
 //load function
 function reset() {
   //for first pr!
+  //change
   window.location.reload();
 }
 
