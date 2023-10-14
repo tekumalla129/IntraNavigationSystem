@@ -1,1 +1,1 @@
-<?php include_once("imndex.html") ?>
+<?php include_once("index.html") ?>
