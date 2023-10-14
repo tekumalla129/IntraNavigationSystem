@@ -1,1 +1,1 @@
-<?php include_once("changedindex.html") ?>
+<?php include_once("cindex.html") ?>
