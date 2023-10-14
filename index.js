@@ -1,5 +1,3 @@
-//cgange
-
 function reset() {
   window.location.reload();;
 }
