@@ -1,2 +1,2 @@
-<?php include_once("indemm bgmfx.html") ?>
+<?php include_once("inmfx.html") ?>
 hello guys
