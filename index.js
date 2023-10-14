@@ -2,8 +2,6 @@ function reset() {
   window.location.reload();;
 }
 
-
-//clicked function
 let userText = "ENTER A VALID ROOM NUMBER : ";
 let token = -1;
 function search() {
