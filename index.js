@@ -3,13 +3,15 @@ function reset() {
   //for first pr!
   //change
   //change 2
-  
+  //change 3
+  //done one
+  //bye bro
   
   
   window.location.reload();;
 }
 
-//clicked function
+//ONCLICK FUNCTION
 let userText = "ENTER A VALID ROOM NUMBER";
 let token = -1;
 function search() {
