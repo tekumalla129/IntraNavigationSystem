@@ -5,6 +5,7 @@ function reset() {
   //change 2
   //change 3
   //done one
+  //bye bro
   
   window.location.reload();;
 }
