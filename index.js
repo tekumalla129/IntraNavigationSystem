@@ -1,4 +1,3 @@
-hello guys
 
 function reset() {
 
