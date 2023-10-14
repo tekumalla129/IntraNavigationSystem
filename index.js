@@ -1,9 +1,6 @@
 //load function
 function reset() {
-  //for first pr!
-  //change 1
 
-  
   
   
 
