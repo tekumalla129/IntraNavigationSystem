@@ -5,6 +5,7 @@ function reset() {
   //change 2
   //change 3
   //done one
+  
   window.location.reload();;
 }
 
@@ -197,6 +198,7 @@ function search() {
       "lon": 78.6670795083046,
       "type": {
         "description": {
+          //hello
           "2001G": "BLOCK 2\nGROUND FLOOR",
           "2001F": "BLOCK 2\nFIRST FLOOR",
           "2001S": "BLOCK 2\nSECOND FLOOR",
