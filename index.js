@@ -1,6 +1,7 @@
 //load function
 function reset() {
 
+
   
   window.location.reload();;
 }
