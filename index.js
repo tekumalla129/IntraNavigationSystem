@@ -1,5 +1,5 @@
 //cgange
-//vhanfe
+
 function reset() {
   window.location.reload();;
 }
