@@ -1,9 +1,4 @@
 
-  
-  let roomNumber = document.getElementById("search").value.toUpperCase();
-  var stringNumber = roomNumber;
-  roomNumber = parseInt(roomNumber);
-
 
 
   if (stringNumber == "3115" || stringNumber == "3116A" || stringNumber == "3116" || stringNumber == "3115B" || stringNumber == "3117" || stringNumber == "3118") {
