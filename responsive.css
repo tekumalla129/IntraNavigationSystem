@@ -84,6 +84,8 @@ height: 10vh;
       
     }
 
+
+
 @media only screen and (min-width:420px) and (max-width:520px){
     #nav{
         height: 18vh;
@@ -157,8 +159,7 @@ height: 10vh;
 
 @media only screen and (min-width:520px) and (max-width:720px){
 
-        
-#nav{
+    #nav{
     height: 18vh;
         
     }
@@ -223,6 +224,8 @@ height: 10vh;
    
   
 }
+
+
 
 @media only screen and (min-width:720px) and (max-width:1200px){
 
