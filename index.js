@@ -4,8 +4,7 @@ function reset() {
   //change
   //change 2'gbghbhbhb
   //change 3
-  //done one
-  //bye bro
+
   
   
   window.location.reload();;
